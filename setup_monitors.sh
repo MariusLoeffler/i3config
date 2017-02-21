@@ -1,3 +1,3 @@
 #!/bin/bash
 
-xrandr --output VGA1 --auto --left-of DP1
+xrandr --output DP2 --auto --right-of DP3
